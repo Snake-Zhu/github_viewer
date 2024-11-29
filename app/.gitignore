@@ -1,0 +1,39 @@
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/caches/
+.gradle/gradle-app-state/
+.gradle/gradle-script-kotlin/
+.gradle/kap/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+.idea/
+*.iml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/launch.json
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/.name
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/jarRepositories.xml
+
+# Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/codeStyles/
+*.iml
+.gradle
+/local.properties
+/.idea/assetWizardSettings.xml
+/.idea/misc.xml
+/.idea/codestyles/
+
+# Built application files
+*.apk
+*.ap_
+*.aab
